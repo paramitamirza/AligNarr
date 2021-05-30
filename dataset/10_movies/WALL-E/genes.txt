@@ -1,0 +1,42 @@
+Mood	Feel Good
+Mood	Humorous
+Mood	Exciting
+Mood	Clever
+Mood	Stylized
+Plot	A.I.
+Plot	Androids and Robots
+Plot	Rescue
+Plot	Heroic Mission
+Plot	Fish Out of Water
+Plot	Escapades
+Plot	Heroes
+Plot	Imaginary
+Plot	Space and Aliens
+Plot	Unlikely Couple
+Plot	Lovers on the Run
+Plot	Future Dystopia
+Plot	Fall in Love
+Plot	Love and Romance
+Plot	Society
+Plot	Disorder
+Genres	Adventure
+Genres	Animation
+Genres	Family
+Genres	Comedy
+Genres	Sci-Fi
+Time/Period	Future
+Place	Outer Space
+Place	Spacecraft
+Audience	Family Outing
+Audience	Preschoolers
+Audience	Pre-Teens
+Praise	Award Winner
+Praise	Blockbuster
+Praise	Critically Acclaimed
+Praise	Oscar Winner
+Praise	Golden Globe Winner
+Praise	Prestigious Awards
+Style	Hollywood Tone
+Attitudes	Semi Serious
+Attitudes	Fantastic
+Look	Computer Animated

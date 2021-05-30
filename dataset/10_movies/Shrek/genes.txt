@@ -1,0 +1,59 @@
+Mood	Feel Good
+Mood	Humorous
+Mood	Witty
+Mood	Exciting
+Mood	Sentimental
+Mood	Clever
+Plot	Odd Couple
+Plot	Reluctant Partners
+Plot	Daring Rescue
+Plot	Opposites Attract
+Plot	Friendship
+Plot	Social Differences
+Plot	Curses Spells and Rituals
+Plot	Heroic Mission
+Plot	Danger
+Plot	Dishonesty
+Plot	Escapades
+Plot	Heroes
+Plot	Imaginary
+Plot	Partners
+Plot	Rivalry
+Plot	Society
+Plot	State Affairs
+Plot	Couples
+Plot	Anti Heroes
+Plot	Intrigue
+Plot	Imaginary Kingdom
+Plot	Royal Family
+Plot	Fall in Love
+Plot	Love and Romance
+Plot	Friends
+Genres	Adventure
+Genres	Animation
+Genres	Comedy
+Genres	Fantasy
+Genres	Family
+Genres	Parody
+Genres	Romance
+Audience	Date Night
+Audience	Family Outing
+Audience	Preschoolers
+Audience	Pre-Teens
+Praise	Award Winner
+Praise	Blockbuster
+Praise	Critically Acclaimed
+Praise	Oscar Winner
+Praise	Modern Classic
+Praise	Prestigious Awards
+Humor	Verbal Byplay
+Style	Fairytale
+Style	Hollywood Tone
+Style	All Star Cast
+Style	On the Road
+Based on	Based on Book
+Attitudes	Not Serious
+Attitudes	Fantastic
+Attitudes	Fast
+Score	Pop
+Look	Computer Animated

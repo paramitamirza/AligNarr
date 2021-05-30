@@ -1,0 +1,39 @@
+Mood	Touching
+Mood	Feel Good
+Mood	Humorous
+Mood	Stylized
+Mood	Exciting
+Mood	Captivating
+Plot	Cinderella Story
+Plot	Cons and Scams
+Plot	Royal Family
+Plot	Fall in Love
+Plot	Dishonesty
+Plot	Escapades
+Plot	Hopes
+Plot	Love and Romance
+Plot	Rivalry
+Plot	Destiny
+Plot	Memory Loss
+Plot	Good Versus Evil
+Plot	Danger
+Plot	Mind and Soul
+Genres	Adventure
+Genres	Animation
+Genres	Musical
+Genres	Family
+Genres	Period
+Time/Period	20th Century
+Place	Europe
+Place	France
+Place	Russia
+Place	Paris
+Audience	Family Outing
+Audience	Pre-Teens
+Praise	Award Winner
+Praise	Critically Acclaimed
+Based on	Based on Play
+Based on	Based on True Story
+Attitudes	Semi Serious
+Attitudes	Semi Fantastic
+Score	Show Tunes

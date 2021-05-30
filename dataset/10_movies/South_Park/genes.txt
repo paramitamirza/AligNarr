@@ -1,0 +1,45 @@
+Mood	Humorous
+Mood	Exciting
+Mood	Biting
+Mood	Cynical
+Mood	Clever
+Mood	Offbeat
+Mood	Witty
+Plot	Buddies
+Plot	Mischievous Children
+Plot	Obsessive Quest
+Plot	Save the World
+Plot	Fighting the System
+Plot	Politics
+Plot	Danger
+Plot	Escapades
+Plot	Heroes
+Plot	Rebellion
+Plot	Society
+Plot	State Affairs
+Plot	Youth
+Plot	Disorder
+Plot	Gender
+Plot	Friends
+Genres	Animation
+Genres	Comedy
+Genres	Musical
+Genres	Parody
+Place	Canada
+Place	Colorado
+Place	USA
+Audience	Teens
+Praise	Award Winner
+Praise	Controversial
+Praise	Critically Acclaimed
+Style	Film in Film
+Humor	Grossout Humor
+Humor	Satire
+Humor	Silly Humor
+Based on	Based on TV Series
+Attitudes	Not Serious
+Attitudes	Fantastic
+Score	Pop
+Score	Alternative
+Look	Computer Animated
+Flag	Profanity

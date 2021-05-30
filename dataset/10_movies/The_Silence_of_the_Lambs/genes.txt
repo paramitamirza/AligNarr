@@ -1,0 +1,34 @@
+Mood	Suspenseful
+Mood	Captivating
+Mood	Tense
+Mood	Scary
+Plot	Serial Killer
+Plot	Special Agents
+Plot	Investigation
+Plot	Mind Game
+Plot	Psychopath
+Plot	Crimes
+Plot	Deadly
+Plot	Law Enforcement
+Plot	Mind and Soul
+Plot	Rivalry
+Genres	Crime
+Genres	Thriller
+Time/Period	20th Century
+Time/Period	90s
+Place	Maryland
+Place	USA
+Place	Virginia
+Praise	Award Winner
+Praise	Blockbuster
+Praise	Critically Acclaimed
+Praise	Oscar Winner
+Praise	Modern Classic
+Praise	Prestigious Awards
+Style	Strong Female Presence
+Based on	Based on Book
+Attitudes	Serious
+Attitudes	Realistic
+Flag	Brief Nudity
+Flag	Sexual Content
+Flag	Strong Violent Content

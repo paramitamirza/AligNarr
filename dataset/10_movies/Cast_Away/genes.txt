@@ -1,0 +1,30 @@
+Mood	Gloomy
+Mood	Contemplative
+Mood	Captivating
+Plot	Survival
+Plot	Human Spirit
+Plot	Isolation
+Plot	Fish Out of Water
+Plot	Confined
+Plot	Danger
+Plot	Escapades
+Plot	Hopes
+Plot	Mind and Soul
+Plot	Misfit
+Plot	Disorder
+Plot	Disaster
+Genres	Adventure
+Genres	Drama
+Time/Period	20th Century
+Time/Period	90s
+Place	Island
+Audience	Date Night
+Audience	Family Outing
+Praise	Award Winner
+Praise	Blockbuster
+Praise	Critically Acclaimed
+Praise	Modern Classic
+Style	Hollywood Tone
+Attitudes	Serious
+Attitudes	Realistic
+Attitudes	Slow

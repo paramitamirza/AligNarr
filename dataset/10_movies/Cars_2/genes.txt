@@ -1,0 +1,36 @@
+Mood	Humorous
+Mood	Stylized
+Mood	Exciting
+Plot	Buddies
+Plot	Contests and Competitions
+Plot	Car Chase
+Plot	Escapades
+Plot	Undercover
+Plot	Chases and Races
+Plot	Friends
+Plot	Secret Agents
+Plot	Espionage
+Plot	Friendship
+Plot	Heroic Mission
+Plot	Fish Out of Water
+Plot	Ambition
+Plot	Heroes
+Plot	Rivalry
+Plot	Disorder
+Genres	Adventure
+Genres	Animation
+Genres	Comedy
+Genres	Family
+Genres	Sport
+Time/Period	Contemporary
+Time/Period	21st Century
+Place	World Spanning
+Audience	Family Outing
+Audience	Preschoolers
+Audience	Pre-Teens
+Praise	Blockbuster
+Style	Hollywood Tone
+Attitudes	Semi Serious
+Attitudes	Fantastic
+Look	Computer Animated
+Look	3D

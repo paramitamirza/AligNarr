@@ -1,0 +1,60 @@
+Mood	Clever
+Mood	Rough
+Mood	Stylized
+Mood	Witty
+Mood	Exciting
+Mood	Captivating
+Mood	Tense
+Mood	Contemplative
+Plot	Criminal Heroes
+Plot	Violence Spree
+Plot	Crimes
+Plot	Deadly
+Plot	Dishonesty
+Plot	On the Run
+Plot	Cons and Scams
+Plot	Tough Heroes
+Plot	Hitman
+Plot	Chases and Races
+Genres	Crime
+Genres	Independent
+Genres	Music
+Time/Period	20th Century
+Time/Period	90s
+Place	California
+Place	USA
+Place	Los Angeles
+Place	Urban
+Audience	Boys' Night
+Praise	Award Winner
+Praise	Blockbuster
+Praise	Critically Acclaimed
+Praise	Cult
+Praise	Essential
+Praise	Groundbreaking
+Praise	Masterpiece
+Praise	Original
+Praise	Oscar Winner
+Praise	Modern Classic
+Praise	Cannes Festival Winner
+Praise	Golden Globe Winner
+Praise	Prestigious Awards
+Humor	Dark Humor
+Humor	Irreverent Humor
+Style	All Star Cast
+Style	Ensemble Cast
+Style	Episodic
+Style	Multiple Stories
+Style	Nonlinear
+Style	Gory
+Style	Postmodernism
+Style	Talky
+Attitudes	Semi Serious
+Attitudes	Realistic
+Score	Pop
+Score	Rock
+Score	Soul
+Flag	Drugs/Alcohol
+Flag	Strong Sexual Content
+Flag	Profanity
+Flag	Strong Violent Content
