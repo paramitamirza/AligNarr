@@ -297,9 +297,12 @@ def get_similarity_bert(sim_matrix_dir, code, script_scenes, summary_sentences, 
 							embeddings += scene_embeddings
 							cosine_sim = cosine_similarity(torch.stack(embeddings).cpu().detach().numpy())[0][1:]
 
-							#if np.max(cosine_sim) > 0.5:
-							if np.max(cosine_sim) > 0.7: 
-								similarity_matrix[i, j] += np.max(cosine_sim)
+							try:
+								#if np.max(cosine_sim) > 0.5:
+								if np.max(cosine_sim) > 0.7: 
+									similarity_matrix[i, j] += np.max(cosine_sim)
+							except ValueError:  #raised if 'cosine_sim' is empty.
+								pass
 
 					#print(i, j, similarity_matrix[i, j])
 
@@ -1015,8 +1018,9 @@ def run_scriptbase(k, dataset_dir, n, top_n=False, sim_matrix='bm25.w2v.sts', li
 
 	#sorted list of movies based on compression ratio of scenes-to-summary
 	movies = []
-	with open('alignarr_scriptbase_statistics_sorted.csv', 'r', newline='') as csvfile:
+	with open('scriptbase_statistic_sorted.csv', 'r', newline='') as csvfile:
 		reader = csv.reader(csvfile)
+		next(reader, None)  # skip the headers
 		for row in reader: movies.append(row[0])
 	key = movies[k]
 
@@ -1158,7 +1162,7 @@ if __name__ == "__main__":
 		print('Experiments...')
 
 		#Baseline
-		#run_baseline('scriptbase')
+		run_baseline('scriptbase')
 		
 		#Ablation
 		run_experiment('auto_alignment_bm25', 1, top_n=False, sim_matrix='bm25', compute_similarity=False, run_alignment=True)
@@ -1170,7 +1174,7 @@ if __name__ == "__main__":
 		run_experiment('auto_alignment_bm25.w2v.sts_non_ilp', 1, top_n=False, sim_matrix='bm25.w2v.sts', ilp=False, compute_similarity=False, run_alignment=True)
 		run_experiment('auto_alignment_bm25.sts_non_ilp', 1, top_n=False, sim_matrix='bm25.sts', ilp=False, compute_similarity=False, run_alignment=True)
 
-		#run_experiment('auto_alignment_bm25.bert.sts', 1, top_n=False, sim_matrix='bm25.bert.sts', compute_similarity=False, run_alignment=True)
-		#run_experiment('auto_alignment_bm25.bert', 1, top_n=False, sim_matrix='bm25.bert', compute_similarity=False, run_alignment=True)
+		run_experiment('auto_alignment_bm25.bert.sts', 1, top_n=False, sim_matrix='bm25.bert.sts', compute_similarity=False, run_alignment=True)
+		run_experiment('auto_alignment_bm25.bert', 1, top_n=False, sim_matrix='bm25.bert', compute_similarity=False, run_alignment=True)
 
-		#run_upperbound('upperbound')
+		run_upperbound('upperbound')
