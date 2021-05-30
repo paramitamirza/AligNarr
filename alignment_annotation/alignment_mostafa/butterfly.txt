@@ -1,0 +1,34 @@
+#
+0: 17, 21
+# This sentence is related to the next sentence. I will align them to the same scenes. Scene 67 is not the original trauma, though.
+1: 20, 25, 32, 48
+# No mention of the mother and her infant child. We do not see the explosion because of the blackout. It is mentioned in scene 67 when he travels back in time.
+2: 20, 25, 32, 48, 67
+#
+3: 59, 60
+#
+4: 65
+# Evan gets a new scar in a flashback and when he wakes up he finds the scar
+5: 67, 68
+# Killing Tommy is in scene 105. Being an inmate is mentioned in scene 106 and 107.
+6: 94, 105, 107, 145
+# Scene 135 is a conversation between Evan and his father about why he travels back in time. There are no problems between Kayleih and Tommy in the flashbacks, though.
+7: 82, 135
+# This is more implied than stated. Also It expresses more or less the same idea as sentence 5
+8: 
+# His realization is mostly implied. It is only mentioned during the flashback when Evan meets his father.
+9: 
+#
+10: 128, 130
+# We never get the point of view that Evan himself is the cause of suffering. He does not conclude that altering the past only hurts people he cares about. That's why he does it again to save Kayleih
+11: 
+#
+12: 178 
+#
+13: 178
+# No mention of how Tommy and Kayleih were brought up after the last flashback. It is implied that she is successful from her attire in the last scene.
+14: 181
+# No mention of how many years later it is. 
+15: 181
+# There is no look of recognition on Kayleih's face.
+16: 181

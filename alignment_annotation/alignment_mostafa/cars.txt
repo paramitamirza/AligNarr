@@ -1,0 +1,72 @@
+#
+0: 1,2
+#
+1: 2
+# 
+2: 4,6, 12
+#
+3: 12
+# 
+4: 12, 13
+# Scene 15 is where the camera and the oil rigs are discussed. The function of the camera is revealed in scene 24
+5: 15, 24
+# Removed scenes 16 and 18. Scene 16 only mentions Rod Redline at the end. Scene 18 is about a fight Rod Redline participates in.
+6: 17, 19, 20
+#
+7: 21
+#
+8: 24
+#
+9: 24
+#
+10: 26
+#
+11: 26
+# Removed 28. Scene 32 is where Mater, Holley and Finn discuss what they should do and Mater agrees to help them in this scene. Scene 28 describes when Finn meets Mater for the second time and they do not talk about the mission.
+12: 27, 32
+#
+13: 29
+#
+14: 32
+# Scene 32 is when they reach Paris. Scene 35 is when they get Tomber.
+15: 32, 35
+#
+16: 36
+#
+17: 36
+#
+18: 36
+## Sentences belong to different scenes. The plan is not Zundapp's. Scene 47 is when Mater takes Ivan's place. Scene 49 is part of the infiltration with Victor. 51 they enter the room. 55 the first car explodes. 61 and 62 show the big picture of the plan
+19: 47, 61, 62
+##
+20: 56, 59, 67
+#
+21: 69, 71
+#
+22: 70, 71, 73, 74
+# Scene 73 is the flashback in Mater's head where he remembers how foolishly he acted. Removed 76 since it is more about the result of his foolishness.
+23: 73
+#
+24: 81, 82
+#
+25: 83, 90
+#
+26: 90, 92
+#
+27: 93
+# 102 is where everyone comes together to defeat the Lemons.
+28: 96, 102
+#
+29: 102, 103
+#
+30: 103
+# No mention of the lemons being arrested by the police. They are arrested by the military in scene 102
+31: 103
+#
+32: 106, 109
+#
+33: 108
+#
+34: 111
+#
+35: 112

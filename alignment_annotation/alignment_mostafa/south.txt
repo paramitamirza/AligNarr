@@ -1,0 +1,82 @@
+#
+0: 11
+#
+1: 11, 12
+#
+2: 14, 15
+#
+3: 15
+# No mention of Chef
+4: 15, 68
+#
+5: 68
+# 
+6: 75, 76
+# They are sent to see the principal, not the councelor
+7: 18, 19
+# Scene 44 is included because of the last part ("It's Easy MMMKay").
+8: 19, 41, 44
+#
+9: 25
+#
+10: 26
+#
+11: 26, 29
+# No mention of why Kenny was sent to hell. The boys are sent to rehab, not grounded (scene 41).
+12: 33, 41
+# In scene 74, Satan and Saddam have sex (implied).
+13: 42, 64, 74
+# Terrance and Phillip are arrested for a different reason. While the mothers started the movement, we get that boycotting any Canadian items in a scene without them.
+14: 36, 40
+# No mention of the Baldwin brothers. Canada bombs Cleveland
+15: 63
+# No mention of the song
+16: 
+# The doctor's name is Pangloss
+17: 65
+# 
+18: 70, 72, 84
+#
+19: 74
+# Saddam doesn't mention coming with Satan
+20: 88
+# Kenny's speech is implied. No mention of the song or Saddam winning Satan back.
+21: 94, 
+# Kenny visits Cartman in both scenes, but he doesn't talk about Terrance and Phillip.
+22: 80, 105
+# The boys did not try to convince their parents. They made some Terrance and Phillip pins, but that's about it.
+23: 84
+#
+24: 84
+#
+25: 84, 86
+#
+26: 96, 98, 99, 100, 103, 105, 107
+# No attempt from the children to warn their mothers. No mention of who the executioner is.
+27: 110, 112
+#
+28: 112, 114, 115, 116
+# No mention how Terrance and Phillip were freed.
+29: 114
+#
+30: 116
+# No mention of confidence in the clitoris' speech.
+31: 111
+#
+32: 
+#
+33:
+# No mention of Saddam
+34: 117
+# 
+35: 119
+#
+36: 119
+# Kenny does not get involved between Satan and Saddam in this scene
+37: 119
+#
+38: 119
+# Kenny never reveals his face in the script
+39: 
+#
+40: 119

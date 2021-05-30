@@ -1,0 +1,60 @@
+#
+0: 7
+#
+1: 7
+# No explicit mention of the briefcase being returned. It seems Vince is returning the briefcase alone.
+2: 7, 9, 10
+#
+3: 12
+# Scene 10 mentions the agreement between Vince and Marsellus. No mention of driving to Mia's.
+4: 10, 12, 13
+# No mention of a trophy.
+5: 17, 19
+# No explicit mention of what went through Mia's mind. She finds the heroin in scene 20 and uses it in scene 21.
+6: 20, 21
+#
+7: 24, 26
+#
+8: 30
+#
+9: 38
+#
+10: 47
+#
+11: 47
+#
+12: 51, 52
+#
+13: 52, 53
+#
+14: 53
+#
+15: 53
+#
+16: 54
+#
+17: 56
+#
+18: 56
+#
+19: 60
+#
+20: 62
+#
+21: 62
+#
+22: 64
+#
+23: 65, 67
+#
+24: 69, 74, 78, 79
+#
+25: 82
+#
+26: 82, 83
+#
+27: 84
+#
+28: 84
+#
+29: 84

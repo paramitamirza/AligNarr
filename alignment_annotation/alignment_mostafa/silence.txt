@@ -1,0 +1,57 @@
+# No mention of Quentico or the behavioral science unit (scene 6)
+0: 1, 2
+# No mention of Buffalo Bill (scene 6)
+1: 2
+# Removed 6 since Chilton is already not in that scene (where she interviews Lecter)
+2: 3, 4, 5
+#
+3: 6
+#
+4: 6
+# Removed scene 10
+5: 6
+# Removed scene 10
+6: 12, 16
+# Removed 17
+7: 18
+# 
+8: 18
+# Removed 22, 34. The kidnapping happens in scene 21. Scene 22 is the immediate aftermath, but is irrelevant to the summary. Scene 34 is a discussion about Cathrine Martin's case (Should we include it?).
+# Removed 43, 49. Clarice informs Lecter about the agreement in scene 43. 
+9: 21, 41
+#
+10: 43, 2
+#
+11: 46
+#46 is included because it is where Lecter agrees to cooperate with Chilton. Removed 48 and 49 since Lecter doesn't appear in either scene.
+12: 46, 53
+# There is no mention of iron sulfide in the script. There is no description of the manhunt up to scene 64.
+13: 64
+#
+14: 64
+#
+15: 64
+#
+16: 64
+#
+17: 67, 71
+# Removed 86. Clarice started reading the case file in scene 87.
+18: 87
+# Scene 94 shows Clarice's thought process and memories. Scene 95 spells the conclusion outright. So, scene 95 is the one included here.
+19: 91, 95
+# 
+20: 95, 96
+# This is a long sequence of scenes. Scene 98 can be part of the sequence, but the raid still hasn't started. In scene 111, the FBI breaks the door. In scene 115, we discover that the place is empty
+21: 97, 99, 100, 102, 104, 106, 108, 111, 113, 115
+# Clarice spends some scenes at Gumb's house, but the fact that it's Jack Gordon's house who is also Gumb is concentrated in a few scenes. I'm not sure about scene 110.
+22: 110, 114, 117, 118
+# 
+23: 120, 121
+#
+24: 126, 127
+# There is no mention of the airport or Bimini
+25: 130
+#
+26: 132
+# The last sentence in the summary follows the movie. The last scenes in the script are completely different. The script has Lecter calling from near a house where he already has Chilton bound
+27: 

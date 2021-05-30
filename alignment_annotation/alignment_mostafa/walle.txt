@@ -1,0 +1,71 @@
+# No mention of the year 2805.
+0: 1, 3
+# No mention to the year 2105. Scene 3 shows that Wall-E has the BNL logo. No mention that the whole population was evacuated. The first Wall-E is seen in scene 2.
+1: 2, 3, 4
+# No mention of the plan being abandoned and the Wall-E robots shutting down. Scene 2 shows Wall-E with his pet cockroach. Scene 3 shows Wall-E liking a new tread. Scene 6, Wall-E tries to act like a human.
+#Scene 10 shows a feeling (horrified). Scene 11 shows a feeling (entranced). He also feels some things later!
+2: 2, 3, 6, 10, 11
+# Wall-E using another robot's tread is implied between scene 3 and 4. No explicit mention.
+3: 3, 4
+# In scene 2 Wall-E likes a hubcap, but it is not mentioned that he took it with him.
+4: 5, 6, 11
+#
+5: 11
+# Scene 20 Eve takes the plant and goes into standby mode.
+6: 13, 20, 31
+# Wall-E first meets Eve in scene 13. She attacks him by the end of it. She attacks him again in scene 15 where he feels lovestruck. Scene 18 Wall-E gifts Eve and she's not impressed. They become friendly in scene 19.
+7: 13, 15, 18, 19
+#
+8: 20, 26
+#
+9: 21, 22
+# 
+10: 26, 27, 31
+#
+11: 35
+#
+12: 40
+#
+13: 40
+# No mention of GO-4 or the stealing part. It is assumed missing in scene 40. The robot's name is actually Gopher. 2110 comes later
+14: 40, 50
+#
+15: 40
+#
+16: 45
+#
+17: 48
+#
+18: 50
+#
+19: 50, 51
+#
+20: 50
+#
+21: 51
+#
+22: 51
+#
+23: 56
+#
+24: 56
+#
+25: 56
+#
+26: 57
+# Wall-E and Eve take their order from the captain in scene 61. They succeed in scene 63.
+27: 61, 63
+#
+28: 62, 63
+#
+29: 63
+#
+30: 63
+# 68 shows that Eve immediately went to fix Wall-E once they reached Earth.
+31: 68, 69
+#
+32: 69
+#
+33: 70
+#
+34: 70

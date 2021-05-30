@@ -1,0 +1,65 @@
+# Scene 19 shows Chuck in Russia while in scenes 15 and 16, he's in Manila
+0: 15, 16, 19
+# Kelly works in Memphis, Tennessee, but there is no mention that they live together or an explicit mention that the house is in Tennessee. There are mentions of Kelly's house and Chuck's house, but they are not related.
+It is more implied. Scene 50 is the first scene where they are together at home.
+1: 23, 50
+#
+2: 51
+# No mention of Christmas being interrupted. Christmas with relatives can be extended to scenes before 60 and after 62 where he appears with his mother only.
+3: 60, 62, 69
+# No mention of the storm, but scenes 72 through 75 describe the paln going through the storm.
+4: 72, 73, 74, 75, 77, 79
+# Missing raft emergency locator transmitter, but GPS is mentioned in scene 90.
+5: 82, 90
+# 
+6: 82, 84
+# Scene 104 describes the whole island. Scenes before that describe the exploration. 
+7: 97, 98, 99, 100, 101, 102, 103, 104
+#
+8: 84, 92, 94
+# No mention of the original life raft
+9: 111, 162
+#
+10: 113, 117, 121, 127, 130, 132, 167
+#
+11: 132
+# His hands are described as raw and blistered, not with a deep wound.
+12: 128
+# No mention of him throwing the ball or anything else in anger and pain.
+13: 172
+# We cut to 3 years later before we see the ball with the face, which is not painted.
+14: 181, 187
+# The script says 3, not 4 years later. No mention of Chuch being thinner or having a beard.
+15: 178
+# There's only a mention of Chuch mechanically adding wood to the fire, but he doesn't make a fire from scratch.
+16: 178, 184
+# There are more scenes where Chuck talks to Wilson afterwards
+17: 187, 204
+# No mention of a portable toilet. Two oil drums are what washes up on the island. He uses clothes as a sail.
+18: 210
+# No mention of the analemma
+19: 216, 217, 218, 219, 220, 221, 223, 225
+#
+20: 231
+# We do not know when Wilson gets lost
+21: 247
+#
+22: 249
+#
+23: 258, 260, 261, 262
+# The reasons for their separation are implied
+24: 262
+# No mention of Kelly giving Chuck anything
+25: 
+# 
+26: 289
+# Chuck finds Bettina in her house.
+27: 
+# No mention of Chuck stopping at a crossroads
+28: 
+# Chuck helps a woman in a truck, but he was not asking for directions
+29: 295
+# The truck is not driving away
+30: 292
+# Chuck is not alone in the last scene
+31: 
