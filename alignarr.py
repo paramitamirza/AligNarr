@@ -1057,7 +1057,6 @@ def run_scriptbase(k, dataset_dir, n, top_n=False, sim_matrix='bm25.w2v.sts', li
 		eprint(f'   Load similarity matrices in {toc - tic:0.4f} seconds.')
 
 	similarity = np.multiply(bm25_similarity, sts_similarity)
-	#similarity= np.multiply(np.multiply(bm25_similarity, sts_similarity), np.add(w2v_similarity, entity_similarity))
 
 	percentile = 50
 	if run_alignment:	
@@ -1078,9 +1077,9 @@ if __name__ == "__main__":
 		dataset_dir = sys.argv[2]
 		k = int(sys.argv[3])
 		if len(sys.argv) > 4 and sys.argv[4] == 'sim_matrix':
-			run_scriptbase(k, dataset_dir, 1, top_n=False, sim_matrix='bm25.w2v.sts', compute_similarity=True, run_alignment=False)
+			run_scriptbase(k, dataset_dir, 1, top_n=False, sim_matrix='bm25.sts', compute_similarity=True, run_alignment=False)
 		else:
-			run_scriptbase(k, dataset_dir, 1, top_n=False, sim_matrix='bm25.w2v.sts', compute_similarity=False, run_alignment=True)
+			run_scriptbase(k, dataset_dir, 1, top_n=False, sim_matrix='bm25.sts', compute_similarity=False, run_alignment=True)
 
 	elif len(sys.argv) > 1:
 		k = int(sys.argv[1])
