@@ -1,4 +1,3 @@
-nohup: ignoring input
 
 ===  1  Getting alignment for The_Producers_(1968_film) ...
    Load similarity matrices in 0.1001 seconds.
@@ -2052,3 +2051,1620 @@ EOFError: Ran out of input
 
 ===  509  Getting alignment for Happiness_(1998_film) ...
    Load similarity matrices in 0.1183 seconds.
+Running alignment algorithm in 7222.3281 seconds.
+
+===  510  Getting alignment for Sugar_&_Spice ...
+   Load similarity matrices in 0.0711 seconds.
+Running alignment algorithm in 132.1107 seconds.
+
+===  511  Getting alignment for Fair_Game_(2010_film) ...
+   Load similarity matrices in 0.0700 seconds.
+Running alignment algorithm in 8.8532 seconds.
+
+===  512  Getting alignment for Sherlock_Holmes_(2009_film) ...
+   Load similarity matrices in 0.1345 seconds.
+Running alignment algorithm in 74.2089 seconds.
+
+===  513  Getting alignment for Return_of_the_Jedi ...
+   Load similarity matrices in 0.1378 seconds.
+Running alignment algorithm in 52.7475 seconds.
+
+===  514  Getting alignment for The_Salton_Sea ...
+   Load similarity matrices in 0.1650 seconds.
+Running alignment algorithm in 103.2971 seconds.
+
+===  515  Getting alignment for White_Squall_(film) ...
+   Load similarity matrices in 0.1039 seconds.
+Running alignment algorithm in 3.8529 seconds.
+
+===  516  Getting alignment for Simone_(2002_film) ...
+   Load similarity matrices in 0.1226 seconds.
+Running alignment algorithm in 215.0937 seconds.
+
+===  517  Getting alignment for Roughshod_(film) ...
+   Load similarity matrices in 0.0841 seconds.
+Running alignment algorithm in 9.1003 seconds.
+
+===  518  Getting alignment for This_Boys_Life_(film) ...
+   Load similarity matrices in 0.0966 seconds.
+Running alignment algorithm in 69.9960 seconds.
+
+===  519  Getting alignment for Rabid ...
+   Load similarity matrices in 0.1324 seconds.
+Running alignment algorithm in 4.7619 seconds.
+
+===  520  Getting alignment for The_King_of_Comedy_(1983_film) ...
+   Load similarity matrices in 0.1070 seconds.
+Running alignment algorithm in 20.1179 seconds.
+
+===  521  Getting alignment for Charlies_Angels_(film) ...
+   Load similarity matrices in 0.2013 seconds.
+Running alignment algorithm in 24.6239 seconds.
+
+===  522  Getting alignment for Minority_Report_(film) ...
+   Load similarity matrices in 0.1831 seconds.
+Running alignment algorithm in 244.3583 seconds.
+
+===  523  Getting alignment for Nine_(2009_live-action_film) ...
+   Load similarity matrices in 0.0840 seconds.
+Running alignment algorithm in 470.5058 seconds.
+
+===  524  Getting alignment for The_Battle_of_Algiers ...
+   Load similarity matrices in 0.0906 seconds.
+Running alignment algorithm in 5.4358 seconds.
+
+===  525  Getting alignment for Hard_to_Kill ...
+   Load similarity matrices in 0.1285 seconds.
+Running alignment algorithm in 741.9629 seconds.
+
+===  526  Getting alignment for Blue_Valentine_(film) ...
+   Load similarity matrices in 0.1287 seconds.
+Running alignment algorithm in 240.9268 seconds.
+
+===  527  Getting alignment for Star_Trek:_Nemesis ...
+   Load similarity matrices in 0.1290 seconds.
+Running alignment algorithm in 37.2680 seconds.
+
+===  528  Getting alignment for National_Lampoons_Barely_Legal ...
+   Load similarity matrices in 0.1239 seconds.
+Running alignment algorithm in 51.8512 seconds.
+
+===  529  Getting alignment for Man_Trouble ...
+   Load similarity matrices in 0.2440 seconds.
+Running alignment algorithm in 5.0648 seconds.
+
+===  530  Getting alignment for Nurse_Betty ...
+   Load similarity matrices in 0.1332 seconds.
+Running alignment algorithm in 63.1037 seconds.
+
+===  531  Getting alignment for Hard_Rain_(film) ...
+   Load similarity matrices in 0.1143 seconds.
+Running alignment algorithm in 277.7333 seconds.
+
+===  532  Getting alignment for Deep_Rising ...
+   Load similarity matrices in 0.0776 seconds.
+Running alignment algorithm in 7230.2764 seconds.
+
+===  533  Getting alignment for Sister_Act ...
+   Load similarity matrices in 0.3858 seconds.
+Running alignment algorithm in 33.9878 seconds.
+
+===  534  Getting alignment for We_Own_the_Night_(film) ...
+   Load similarity matrices in 0.1889 seconds.
+Running alignment algorithm in 64.6317 seconds.
+
+===  535  Getting alignment for Leaving_Las_Vegas ...
+   Load similarity matrices in 0.1168 seconds.
+Running alignment algorithm in 1257.3348 seconds.
+
+===  536  Getting alignment for Get_Carter ...
+   Load similarity matrices in 0.3295 seconds.
+Running alignment algorithm in 233.2303 seconds.
+
+===  537  Getting alignment for Yes_Man_(film) ...
+   Load similarity matrices in 0.1302 seconds.
+Running alignment algorithm in 8087.7795 seconds.
+
+===  538  Getting alignment for Grand_Theft_Parsons ...
+   Load similarity matrices in 0.1141 seconds.
+Running alignment algorithm in 59.5655 seconds.
+
+===  539  Getting alignment for Halloween:_The_Curse_of_Michael_Myers ...
+   Load similarity matrices in 0.2368 seconds.
+Running alignment algorithm in 9659.9203 seconds.
+
+===  540  Getting alignment for The_Kingdom_(film) ...
+   Load similarity matrices in 0.1644 seconds.
+Running alignment algorithm in 6873.6926 seconds.
+
+===  541  Getting alignment for Star_Wars_Episode_II:_Attack_of_the_Clones ...
+   Load similarity matrices in 0.3709 seconds.
+Running alignment algorithm in 58.0079 seconds.
+
+===  542  Getting alignment for Constantine_(film) ...
+   Load similarity matrices in 0.1305 seconds.
+Running alignment algorithm in 1374.8330 seconds.
+
+===  543  Getting alignment for Precious_(film) ...
+   Load similarity matrices in 0.1386 seconds.
+Running alignment algorithm in 68.5531 seconds.
+
+===  544  Getting alignment for Burn_After_Reading ...
+   Load similarity matrices in 0.0888 seconds.
+Running alignment algorithm in 816.5124 seconds.
+
+===  545  Getting alignment for No_Country_for_Old_Men_(film) ...
+   Load similarity matrices in 0.1847 seconds.
+Running alignment algorithm in 7223.3491 seconds.
+
+===  546  Getting alignment for American_Shaolin ...
+   Load similarity matrices in 0.1020 seconds.
+Running alignment algorithm in 29.3368 seconds.
+
+===  547  Getting alignment for Mission:_Impossible_II ...
+   Load similarity matrices in 0.1398 seconds.
+Running alignment algorithm in 154.8332 seconds.
+
+===  548  Getting alignment for Children_of_Men ...
+   Load similarity matrices in 0.1339 seconds.
+Running alignment algorithm in 42.2192 seconds.
+
+===  549  Getting alignment for One_Eight_Seven ...
+   Load similarity matrices in 0.0947 seconds.
+Running alignment algorithm in 120.2629 seconds.
+
+===  550  Getting alignment for Brazil_(1985_film) ...
+   Load similarity matrices in 0.1911 seconds.
+Running alignment algorithm in 58.4476 seconds.
+
+===  551  Getting alignment for Up_in_the_Air_(2009_film) ...
+   Load similarity matrices in 0.2443 seconds.
+Running alignment algorithm in 74.2019 seconds.
+
+===  552  Getting alignment for Autumn_in_New_York_(film) ...
+   Load similarity matrices in 0.2317 seconds.
+Running alignment algorithm in 7237.8683 seconds.
+
+===  553  Getting alignment for The_Sessions_(film) ...
+   Load similarity matrices in 0.3855 seconds.
+Running alignment algorithm in 10.4366 seconds.
+
+===  554  Getting alignment for Angels_&_Demons_(film) ...
+   Load similarity matrices in 0.2378 seconds.
+Running alignment algorithm in 34.5584 seconds.
+
+===  555  Getting alignment for Harold_&_Kumar_Go_to_White_Castle ...
+   Load similarity matrices in 0.1846 seconds.
+Running alignment algorithm in 82.8395 seconds.
+
+===  556  Getting alignment for Pleasantville_(film) ...
+   Load similarity matrices in 0.3707 seconds.
+Running alignment algorithm in 44.7500 seconds.
+
+===  557  Getting alignment for Superbad_(film) ...
+   Load similarity matrices in 0.1386 seconds.
+Running alignment algorithm in 96.7839 seconds.
+
+===  558  Getting alignment for This_Is_40 ...
+   Load similarity matrices in 0.2241 seconds.
+Running alignment algorithm in 428.0004 seconds.
+
+===  559  Getting alignment for The_Family_Man ...
+   Load similarity matrices in 0.1137 seconds.
+Running alignment algorithm in 244.5484 seconds.
+
+===  560  Getting alignment for Croupier_(film) ...
+   Load similarity matrices in 0.1733 seconds.
+Running alignment algorithm in 199.8139 seconds.
+
+===  561  Getting alignment for Demolition_Man_(film) ...
+   Load similarity matrices in 0.1792 seconds.
+Running alignment algorithm in 1167.0170 seconds.
+
+===  562  Getting alignment for Little_Athens ...
+   Load similarity matrices in 0.4065 seconds.
+Running alignment algorithm in 1.6737 seconds.
+
+===  563  Getting alignment for Happy_Campers_(2001_film) ...
+   Load similarity matrices in 0.1970 seconds.
+Running alignment algorithm in 3.7588 seconds.
+
+===  564  Getting alignment for Gone_in_60_Seconds_(2000_film) ...
+   Load similarity matrices in 0.1963 seconds.
+Running alignment algorithm in 1395.6948 seconds.
+
+===  565  Getting alignment for Murderland ...
+   Load similarity matrices in 0.1266 seconds.
+Running alignment algorithm in 7.2340 seconds.
+
+===  566  Getting alignment for Tremors_(film) ...
+   Load similarity matrices in 0.1261 seconds.
+Running alignment algorithm in 75.8592 seconds.
+
+===  567  Getting alignment for Goodfellas ...
+   Load similarity matrices in 0.1607 seconds.
+Running alignment algorithm in 355.1854 seconds.
+
+===  568  Getting alignment for Frozen_River ...
+   Load similarity matrices in 0.2174 seconds.
+Running alignment algorithm in 921.0092 seconds.
+
+===  569  Getting alignment for Human_Nature_(film) ...
+   Load similarity matrices in 0.2202 seconds.
+Running alignment algorithm in 159.1645 seconds.
+
+===  570  Getting alignment for Hostage_(film) ...
+   Load similarity matrices in 0.1504 seconds.
+Running alignment algorithm in 7234.0990 seconds.
+
+===  571  Getting alignment for Star_Trek:_The_Motion_Picture ...
+   Load similarity matrices in 0.1213 seconds.
+Running alignment algorithm in 23.5960 seconds.
+
+===  572  Getting alignment for Face-Off ...
+   Load similarity matrices in 0.1087 seconds.
+Running alignment algorithm in 73.9996 seconds.
+
+===  573  Getting alignment for The_Public_Eye_(film) ...
+   Load similarity matrices in 0.1115 seconds.
+Running alignment algorithm in 20.2222 seconds.
+
+===  574  Getting alignment for Machete_(film) ...
+   Load similarity matrices in 0.0904 seconds.
+Running alignment algorithm in 197.0562 seconds.
+
+===  575  Getting alignment for Escape_from_New_York ...
+   Load similarity matrices in 0.0991 seconds.
+Running alignment algorithm in 43.4824 seconds.
+
+===  576  Getting alignment for Gothika ...
+   Load similarity matrices in 0.3043 seconds.
+Running alignment algorithm in 7224.0303 seconds.
+
+===  577  Getting alignment for Breakdown_(film) ...
+   Load similarity matrices in 0.1087 seconds.
+Running alignment algorithm in 93.8321 seconds.
+
+===  578  Getting alignment for Catwoman_(film) ...
+   Load similarity matrices in 0.1352 seconds.
+Running alignment algorithm in 29.5524 seconds.
+
+===  579  Getting alignment for Out_of_Sight ...
+   Load similarity matrices in 0.2646 seconds.
+Running alignment algorithm in 5.5848 seconds.
+
+===  580  Getting alignment for The_Graduate ...
+   Load similarity matrices in 0.1525 seconds.
+Running alignment algorithm in 1013.4715 seconds.
+
+===  581  Getting alignment for The_Big_White ...
+   Load similarity matrices in 0.0923 seconds.
+Running alignment algorithm in 21.9272 seconds.
+
+===  582  Getting alignment for Ghostbusters_II ...
+   Load similarity matrices in 0.3114 seconds.
+Running alignment algorithm in 77.0168 seconds.
+
+===  583  Getting alignment for Being_There ...
+   Load similarity matrices in 0.1061 seconds.
+Running alignment algorithm in 486.0689 seconds.
+
+===  584  Getting alignment for 1492:_Conquest_of_Paradise ...
+   Load similarity matrices in 0.1176 seconds.
+Running alignment algorithm in 359.5169 seconds.
+
+===  585  Getting alignment for Platoon_(film) ...
+   Load similarity matrices in 0.1325 seconds.
+Running alignment algorithm in 798.4532 seconds.
+
+===  586  Getting alignment for Henry_Fool ...
+   Load similarity matrices in 0.1721 seconds.
+Running alignment algorithm in 6.5596 seconds.
+
+===  587  Getting alignment for MASH_(film) ...
+   Load similarity matrices in 0.1197 seconds.
+Running alignment algorithm in 7234.9031 seconds.
+
+===  588  Getting alignment for Requiem_for_a_Dream ...
+   Load similarity matrices in 0.1893 seconds.
+Running alignment algorithm in 33.2835 seconds.
+
+===  589  Getting alignment for Boogie_Nights ...
+   Load similarity matrices in 0.2353 seconds.
+Running alignment algorithm in 3342.0685 seconds.
+
+===  590  Getting alignment for Music_of_the_Heart ...
+   Load similarity matrices in 0.1468 seconds.
+Running alignment algorithm in 13.0156 seconds.
+
+===  591  Getting alignment for The_Big_Blue ...
+   Load similarity matrices in 0.1377 seconds.
+Running alignment algorithm in 3.6632 seconds.
+
+===  592  Getting alignment for Alone_in_the_Dark_(2005_film) ...
+   Load similarity matrices in 0.1221 seconds.
+Running alignment algorithm in 6.8336 seconds.
+
+===  593  Getting alignment for The_Men_Who_Stare_at_Goats_(film) ...
+   Load similarity matrices in 0.0977 seconds.
+Running alignment algorithm in 69.7960 seconds.
+
+===  594  Getting alignment for The_Bourne_Identity_(2002_film) ...
+   Load similarity matrices in 0.1398 seconds.
+Running alignment algorithm in 441.2708 seconds.
+
+===  595  Getting alignment for Star_Trek_V:_The_Final_Frontier ...
+   Load similarity matrices in 0.2129 seconds.
+Running alignment algorithm in 30.7460 seconds.
+
+===  596  Getting alignment for Friday_the_13th_Part_VI:_Jason_Lives ...
+   Load similarity matrices in 0.0883 seconds.
+Running alignment algorithm in 70.7313 seconds.
+
+===  597  Getting alignment for The_Matrix_Reloaded ...
+   Load similarity matrices in 0.1344 seconds.
+Running alignment algorithm in 1029.5313 seconds.
+
+===  598  Getting alignment for Gamer_(film) ...
+   Load similarity matrices in 0.1256 seconds.
+Running alignment algorithm in 1143.9811 seconds.
+
+===  599  Getting alignment for 12_and_Holding ...
+   Load similarity matrices in 0.2130 seconds.
+Running alignment algorithm in 47.8016 seconds.
+
+===  600  Getting alignment for Gandhi_(film) ...
+   Load similarity matrices in 0.0790 seconds.
+Running alignment algorithm in 1.5730 seconds.
+
+===  601  Getting alignment for A_Dry_White_Season ...
+   Load similarity matrices in 0.1509 seconds.
+Running alignment algorithm in 7.7603 seconds.
+
+===  602  Getting alignment for Total_Recall_(1990_film) ...
+   Load similarity matrices in 0.0941 seconds.
+Running alignment algorithm in 248.4738 seconds.
+
+===  603  Getting alignment for Valkyrie_(film) ...
+   Load similarity matrices in 0.2538 seconds.
+Running alignment algorithm in 103.3756 seconds.
+
+===  604  Getting alignment for Pretty_Woman ...
+   Load similarity matrices in 0.2223 seconds.
+Running alignment algorithm in 483.2820 seconds.
+
+===  605  Getting alignment for Gattaca ...
+   Load similarity matrices in 0.1165 seconds.
+Running alignment algorithm in 4723.3719 seconds.
+
+===  606  Getting alignment for Twins_(1988_film) ...
+   Load similarity matrices in 0.1809 seconds.
+Running alignment algorithm in 104.6491 seconds.
+
+===  607  Getting alignment for Dave_(film) ...
+   Load similarity matrices in 0.1072 seconds.
+Running alignment algorithm in 96.2069 seconds.
+
+===  608  Getting alignment for Case_39 ...
+   Load similarity matrices in 0.0935 seconds.
+Running alignment algorithm in 325.4612 seconds.
+
+===  609  Getting alignment for Mr._Brooks ...
+   Load similarity matrices in 0.1455 seconds.
+Running alignment algorithm in 209.0337 seconds.
+
+===  610  Getting alignment for RocknRolla ...
+   Load similarity matrices in 0.0771 seconds.
+Running alignment algorithm in 7224.6367 seconds.
+
+===  611  Getting alignment for Mission_to_Mars ...
+   Load similarity matrices in 0.1209 seconds.
+Running alignment algorithm in 68.0087 seconds.
+
+===  612  Getting alignment for Witness_(1985_film) ...
+   Load similarity matrices in 0.1640 seconds.
+Running alignment algorithm in 66.2654 seconds.
+
+===  613  Getting alignment for Henrys_Crime ...
+   Load similarity matrices in 0.1286 seconds.
+Running alignment algorithm in 23.6433 seconds.
+
+===  614  Getting alignment for Bonnie_and_Clyde_(film) ...
+   Load similarity matrices in 0.2325 seconds.
+Running alignment algorithm in 344.9866 seconds.
+
+===  615  Getting alignment for Ed_Wood_(film) ...
+   Load similarity matrices in 0.1806 seconds.
+Running alignment algorithm in 43.1810 seconds.
+
+===  616  Getting alignment for Moon_(film) ...
+   Load similarity matrices in 0.0945 seconds.
+Running alignment algorithm in 65.3534 seconds.
+
+===  617  Getting alignment for Super_8_(film) ...
+   Load similarity matrices in 0.1800 seconds.
+Running alignment algorithm in 595.4210 seconds.
+
+===  618  Getting alignment for Minis_First_Time ...
+   Load similarity matrices in 0.1148 seconds.
+Running alignment algorithm in 16.6425 seconds.
+
+===  619  Getting alignment for Eternal_Sunshine_of_the_Spotless_Mind ...
+   Load similarity matrices in 0.1010 seconds.
+Running alignment algorithm in 21.6918 seconds.
+
+===  620  Getting alignment for American_Beauty_(film) ...
+   Load similarity matrices in 0.0858 seconds.
+Running alignment algorithm in 199.3367 seconds.
+
+===  621  Getting alignment for Silver_Linings_Playbook ...
+   Load similarity matrices in 0.1586 seconds.
+Running alignment algorithm in 316.0892 seconds.
+
+===  622  Getting alignment for I,_Robot_(film) ...
+   Load similarity matrices in 0.1279 seconds.
+Running alignment algorithm in 1.6181 seconds.
+
+===  623  Getting alignment for Starship_Troopers_(film) ...
+   Load similarity matrices in 0.1562 seconds.
+Running alignment algorithm in 65.6368 seconds.
+
+===  624  Getting alignment for Batman_&_Robin_(film) ...
+   Load similarity matrices in 0.2040 seconds.
+Running alignment algorithm in 50.4684 seconds.
+
+===  625  Getting alignment for Network_(film) ...
+   Load similarity matrices in 0.1029 seconds.
+Running alignment algorithm in 6.8941 seconds.
+
+===  626  Getting alignment for The_Pianist_(2002_film) ...
+   Load similarity matrices in 0.1417 seconds.
+Running alignment algorithm in 2.7208 seconds.
+
+===  627  Getting alignment for Bones_(2001_film) ...
+   Load similarity matrices in 0.1010 seconds.
+Running alignment algorithm in 7233.9080 seconds.
+
+===  628  Getting alignment for Klute ...
+   Load similarity matrices in 0.1813 seconds.
+Running alignment algorithm in 369.5876 seconds.
+
+===  629  Getting alignment for Only_God_Forgives ...
+   Load similarity matrices in 0.0970 seconds.
+Running alignment algorithm in 5350.7123 seconds.
+
+===  630  Getting alignment for Avatar_(2009_film) ...
+   Load similarity matrices in 0.1953 seconds.
+Running alignment algorithm in 49.9196 seconds.
+
+===  631  Getting alignment for Insomnia_(2002_film) ...
+   Load similarity matrices in 0.1717 seconds.
+Running alignment algorithm in 6643.5527 seconds.
+
+===  632  Getting alignment for Chaos_(2005_Capitol_film) ...
+   Load similarity matrices in 0.1128 seconds.
+Running alignment algorithm in 49.0381 seconds.
+
+===  633  Getting alignment for The_Game_(1997_film) ...
+   Load similarity matrices in 0.9891 seconds.
+Running alignment algorithm in 3631.5121 seconds.
+
+===  634  Getting alignment for The_Avengers_(1998_film) ...
+   Load similarity matrices in 0.2390 seconds.
+Running alignment algorithm in 205.0882 seconds.
+
+===  635  Getting alignment for Drop_Dead_Gorgeous_(film) ...
+   Load similarity matrices in 0.1583 seconds.
+Running alignment algorithm in 1405.2567 seconds.
+
+===  636  Getting alignment for The_Sandlot ...
+   Load similarity matrices in 0.1604 seconds.
+Running alignment algorithm in 93.9493 seconds.
+
+===  637  Getting alignment for The_Truman_Show ...
+   Load similarity matrices in 0.2243 seconds.
+Running alignment algorithm in 176.0801 seconds.
+
+===  638  Getting alignment for Cradle_2_the_Grave ...
+   Load similarity matrices in 0.3213 seconds.
+Running alignment algorithm in 248.5569 seconds.
+
+===  639  Getting alignment for The_Postman_(film) ...
+   Load similarity matrices in 0.0864 seconds.
+Running alignment algorithm in 7244.2520 seconds.
+
+===  640  Getting alignment for S._Darko ...
+   Load similarity matrices in 0.2120 seconds.
+Running alignment algorithm in 6594.7416 seconds.
+
+===  641  Getting alignment for John_Q ...
+   Load similarity matrices in 0.0976 seconds.
+Running alignment algorithm in 465.8047 seconds.
+
+===  642  Getting alignment for Ordinary_People ...
+   Load similarity matrices in 0.3315 seconds.
+Running alignment algorithm in 5170.0621 seconds.
+
+===  643  Getting alignment for Inventing_the_Abbotts ...
+   Load similarity matrices in 0.1214 seconds.
+Running alignment algorithm in 21.7858 seconds.
+
+===  644  Getting alignment for City_of_Joy_(film) ...
+   Load similarity matrices in 0.1263 seconds.
+Running alignment algorithm in 14.5471 seconds.
+
+===  645  Getting alignment for The_Program ...
+   Load similarity matrices in 0.1766 seconds.
+Running alignment algorithm in 7596.5983 seconds.
+
+===  646  Getting alignment for Clue_(film) ...
+   Load similarity matrices in 0.0860 seconds.
+Running alignment algorithm in 4.0584 seconds.
+
+===  647  Getting alignment for Miami_Vice_(film) ...
+   Load similarity matrices in 0.1485 seconds.
+Running alignment algorithm in 87.9299 seconds.
+
+===  648  Getting alignment for Drive_(2011_film) ...
+   Load similarity matrices in 0.2556 seconds.
+Running alignment algorithm in 58.3433 seconds.
+
+===  649  Getting alignment for Little_Monsters ...
+   Load similarity matrices in 0.2287 seconds.
+Running alignment algorithm in 7222.5971 seconds.
+
+===  650  Getting alignment for Panic_Room ...
+   Load similarity matrices in 0.2592 seconds.
+Running alignment algorithm in 609.0478 seconds.
+
+===  651  Getting alignment for The_Patriot_(2000_film) ...
+   Load similarity matrices in 0.2405 seconds.
+Running alignment algorithm in 207.5285 seconds.
+
+===  652  Getting alignment for Malcolm_X_(film) ...
+   Load similarity matrices in 0.1496 seconds.
+Running alignment algorithm in 837.9238 seconds.
+
+===  653  Getting alignment for The_American_(2010_film) ...
+   Load similarity matrices in 0.1254 seconds.
+Running alignment algorithm in 7233.4119 seconds.
+
+===  654  Getting alignment for Warrior_(2011_film) ...
+   Load similarity matrices in 0.1134 seconds.
+Running alignment algorithm in 7248.0645 seconds.
+
+===  655  Getting alignment for Blow_(film) ...
+   Load similarity matrices in 0.1187 seconds.
+Running alignment algorithm in 397.8368 seconds.
+
+===  656  Getting alignment for Being_Human_(film) ...
+   Load similarity matrices in 0.2243 seconds.
+Running alignment algorithm in 42.7054 seconds.
+
+===  657  Getting alignment for Fatal_Instinct ...
+   Load similarity matrices in 0.1169 seconds.
+Running alignment algorithm in 23.8925 seconds.
+
+===  658  Getting alignment for The_Debt_(2011_film) ...
+   Load similarity matrices in 0.1538 seconds.
+Running alignment algorithm in 112.2433 seconds.
+
+===  659  Getting alignment for Wall_Street_(1987_film) ...
+   Load similarity matrices in 0.0859 seconds.
+Running alignment algorithm in 1331.7958 seconds.
+
+===  660  Getting alignment for The_Messenger:_The_Story_of_Joan_of_Arc ...
+   Load similarity matrices in 0.1911 seconds.
+Running alignment algorithm in 927.9946 seconds.
+
+===  661  Getting alignment for The_Corruptor ...
+   Load similarity matrices in 0.1753 seconds.
+Running alignment algorithm in 65.1281 seconds.
+
+===  662  Getting alignment for Day_of_the_Dead_(1985_film) ...
+   Load similarity matrices in 0.1317 seconds.
+Running alignment algorithm in 236.0170 seconds.
+
+===  663  Getting alignment for Jerry_Maguire ...
+   Load similarity matrices in 0.2021 seconds.
+Running alignment algorithm in 154.3058 seconds.
+
+===  664  Getting alignment for Collateral_(film) ...
+   Load similarity matrices in 0.1245 seconds.
+Running alignment algorithm in 149.1331 seconds.
+
+===  665  Getting alignment for You_Can_Count_on_Me ...
+   Load similarity matrices in 0.1204 seconds.
+Running alignment algorithm in 455.4761 seconds.
+
+===  666  Getting alignment for Someone_to_Watch_Over_Me_(film) ...
+   Load similarity matrices in 0.2535 seconds.
+Running alignment algorithm in 24.2377 seconds.
+
+===  667  Getting alignment for Heathers ...
+   Load similarity matrices in 0.1056 seconds.
+Running alignment algorithm in 1043.9642 seconds.
+
+===  668  Getting alignment for The_Informant! ...
+   Load similarity matrices in 0.1409 seconds.
+Running alignment algorithm in 18.8870 seconds.
+
+===  669  Getting alignment for Being_John_Malkovich ...
+   Load similarity matrices in 0.2159 seconds.
+Running alignment algorithm in 7136.4589 seconds.
+
+===  670  Getting alignment for Funny_People ...
+   Load similarity matrices in 0.0961 seconds.
+Running alignment algorithm in 1521.9091 seconds.
+
+===  671  Getting alignment for A_Nightmare_on_Elm_Street_4:_The_Dream_Master ...
+   Load similarity matrices in 0.0953 seconds.
+Running alignment algorithm in 77.8043 seconds.
+
+===  672  Getting alignment for Tall_in_the_Saddle ...
+   Load similarity matrices in 0.1588 seconds.
+Running alignment algorithm in 1136.7354 seconds.
+
+===  673  Getting alignment for Its_a_Wonderful_Life ...
+   Load similarity matrices in 0.1754 seconds.
+Running alignment algorithm in 988.5925 seconds.
+
+===  674  Getting alignment for Man_on_the_Moon_(film) ...
+   Load similarity matrices in 0.1502 seconds.
+Running alignment algorithm in 197.1466 seconds.
+
+===  675  Getting alignment for The_Visitor_(2007_drama_film) ...
+   Load similarity matrices in 0.0855 seconds.
+Running alignment algorithm in 86.7215 seconds.
+
+===  676  Getting alignment for L.A._Confidential_(film) ...
+   Load similarity matrices in 0.1011 seconds.
+Running alignment algorithm in 271.8038 seconds.
+
+===  677  Getting alignment for 12_Monkeys ...
+   Load similarity matrices in 0.1295 seconds.
+Running alignment algorithm in 3488.7792 seconds.
+
+===  678  Getting alignment for Indiana_Jones_and_the_Temple_of_Doom ...
+   Load similarity matrices in 0.0822 seconds.
+Running alignment algorithm in 62.7880 seconds.
+
+===  679  Getting alignment for Fantastic_Four_(film) ...
+   Load similarity matrices in 0.1193 seconds.
+Running alignment algorithm in 642.9584 seconds.
+
+===  680  Getting alignment for Excalibur_(film) ...
+   Load similarity matrices in 0.1750 seconds.
+Running alignment algorithm in 7248.4058 seconds.
+
+===  681  Getting alignment for Amadeus_(film) ...
+   Load similarity matrices in 0.1005 seconds.
+Running alignment algorithm in 649.7742 seconds.
+
+===  682  Getting alignment for Sleepless_in_Seattle ...
+   Load similarity matrices in 0.1685 seconds.
+Running alignment algorithm in 1914.5751 seconds.
+
+===  683  Getting alignment for Cellular_(film) ...
+   Load similarity matrices in 0.0428 seconds.
+Running alignment algorithm in 7267.0588 seconds.
+
+===  684  Getting alignment for Alien_Nation_(film) ...
+   Load similarity matrices in 0.0936 seconds.
+Running alignment algorithm in 95.0700 seconds.
+
+===  685  Getting alignment for Serial_Mom ...
+   Load similarity matrices in 0.1127 seconds.
+Running alignment algorithm in 67.3251 seconds.
+
+===  686  Getting alignment for The_Bounty_Hunter_(2010_film) ...
+   Load similarity matrices in 0.1193 seconds.
+Running alignment algorithm in 4829.5103 seconds.
+
+===  687  Getting alignment for Above_the_Law_(film) ...
+   Load similarity matrices in 0.1163 seconds.
+Running alignment algorithm in 31.3121 seconds.
+
+===  688  Getting alignment for Wild_at_Heart_(film) ...
+   Load similarity matrices in 0.2058 seconds.
+Running alignment algorithm in 56.2325 seconds.
+
+===  689  Getting alignment for Oceans_Twelve ...
+   Load similarity matrices in 0.2016 seconds.
+Running alignment algorithm in 355.7245 seconds.
+
+===  690  Getting alignment for Flightplan ...
+   Load similarity matrices in 0.0984 seconds.
+Running alignment algorithm in 7246.6385 seconds.
+
+===  691  Getting alignment for The_Thing_(1982_film) ...
+   Load similarity matrices in 0.2538 seconds.
+Running alignment algorithm in 634.7644 seconds.
+
+===  692  Getting alignment for Life_as_a_House ...
+   Load similarity matrices in 0.3804 seconds.
+Running alignment algorithm in 7235.1928 seconds.
+
+===  693  Getting alignment for Star_Trek:_First_Contact ...
+   Load similarity matrices in 0.1645 seconds.
+Running alignment algorithm in 330.3840 seconds.
+
+===  694  Getting alignment for Bound_(film) ...
+   Load similarity matrices in 0.1087 seconds.
+Running alignment algorithm in 345.0263 seconds.
+
+===  695  Getting alignment for The_Boondock_Saints_II:_All_Saints_Day ...
+   Load similarity matrices in 0.2263 seconds.
+Running alignment algorithm in 7237.5404 seconds.
+
+===  696  Getting alignment for Sideways ...
+   Load similarity matrices in 0.3048 seconds.
+Running alignment algorithm in 42.0536 seconds.
+
+===  697  Getting alignment for The_Lost_Boys ...
+   Load similarity matrices in 0.0896 seconds.
+Running alignment algorithm in 135.7648 seconds.
+
+===  698  Getting alignment for Lost_Souls_(film) ...
+   Load similarity matrices in 0.1116 seconds.
+Running alignment algorithm in 6.0107 seconds.
+
+===  699  Getting alignment for Mary_Shelleys_Frankenstein_(film) ...
+   Load similarity matrices in 0.1335 seconds.
+Running alignment algorithm in 0.6488 seconds.
+
+===  700  Getting alignment for The_Life_of_David_Gale ...
+   Load similarity matrices in 0.1722 seconds.
+Running alignment algorithm in 3657.5477 seconds.
+
+===  701  Getting alignment for Beginners ...
+   Load similarity matrices in 0.0977 seconds.
+Running alignment algorithm in 9.4505 seconds.
+
+===  702  Getting alignment for Birthday_Girl ...
+   Load similarity matrices in 0.1927 seconds.
+Running alignment algorithm in 38.7810 seconds.
+
+===  703  Getting alignment for Lord_of_Illusions ...
+   Load similarity matrices in 0.1838 seconds.
+Running alignment algorithm in 7312.9956 seconds.
+
+===  704  Getting alignment for Dark_City_(1998_film) ...
+   Load similarity matrices in 0.1488 seconds.
+Running alignment algorithm in 72.0825 seconds.
+
+===  705  Getting alignment for Anonymous_(film) ...
+   Load similarity matrices in 0.1272 seconds.
+Running alignment algorithm in 959.6781 seconds.
+
+===  706  Getting alignment for Shifty_(film) ...
+   Load similarity matrices in 0.1280 seconds.
+Running alignment algorithm in 7.7737 seconds.
+
+===  707  Getting alignment for Beavis_and_Butt-head_Do_America ...
+   Load similarity matrices in 0.4993 seconds.
+Running alignment algorithm in 123.8962 seconds.
+
+===  708  Getting alignment for Sunshine_Cleaning ...
+   Load similarity matrices in 0.3871 seconds.
+Running alignment algorithm in 2927.2221 seconds.
+
+===  709  Getting alignment for Bean_(film) ...
+   Load similarity matrices in 0.1523 seconds.
+Running alignment algorithm in 4513.8569 seconds.
+
+===  710  Getting alignment for The_Haunting_(1999_film) ...
+   Load similarity matrices in 0.1406 seconds.
+Running alignment algorithm in 7235.4000 seconds.
+
+===  711  Getting alignment for The_Jacket ...
+   Load similarity matrices in 0.1306 seconds.
+Running alignment algorithm in 410.4912 seconds.
+
+===  712  Getting alignment for Go_(1999_film) ...
+   Load similarity matrices in 0.2067 seconds.
+Running alignment algorithm in 77.4738 seconds.
+
+===  713  Getting alignment for Blade:_Trinity ...
+   Load similarity matrices in 0.1487 seconds.
+Running alignment algorithm in 533.4181 seconds.
+
+===  714  Getting alignment for Memento_(film) ...
+   Load similarity matrices in 0.1342 seconds.
+Running alignment algorithm in 69.8398 seconds.
+
+===  715  Getting alignment for Predator_(film) ...
+   Load similarity matrices in 0.2260 seconds.
+Running alignment algorithm in 59.2790 seconds.
+
+===  716  Getting alignment for Supergirl_(film) ...
+   Load similarity matrices in 0.1079 seconds.
+Running alignment algorithm in 62.5098 seconds.
+
+===  717  Getting alignment for Legend_(1985_film) ...
+   Load similarity matrices in 0.2254 seconds.
+Running alignment algorithm in 96.4304 seconds.
+
+===  718  Getting alignment for Entrapment_(film) ...
+   Load similarity matrices in 0.0967 seconds.
+Running alignment algorithm in 75.6907 seconds.
+
+===  719  Getting alignment for Up_(2009_film) ...
+   Load similarity matrices in 0.0710 seconds.
+Running alignment algorithm in 68.2939 seconds.
+
+===  720  Getting alignment for The_Butterfly_Effect ...
+   Load similarity matrices in 0.1920 seconds.
+Running alignment algorithm in 212.7831 seconds.
+
+===  721  Getting alignment for Conspiracy_Theory_(film) ...
+   Load similarity matrices in 0.2491 seconds.
+Running alignment algorithm in 703.6026 seconds.
+
+===  722  Getting alignment for The_Last_Samurai ...
+   Load similarity matrices in 0.2253 seconds.
+Running alignment algorithm in 86.0873 seconds.
+
+===  723  Getting alignment for G.I._Jane ...
+   Load similarity matrices in 0.0790 seconds.
+Running alignment algorithm in 70.6010 seconds.
+
+===  724  Getting alignment for Man_on_Fire_(2004_film) ...
+   Load similarity matrices in 0.1402 seconds.
+Running alignment algorithm in 329.6360 seconds.
+
+===  725  Getting alignment for Almost_Famous ...
+   Load similarity matrices in 0.1304 seconds.
+Running alignment algorithm in 633.0371 seconds.
+
+===  726  Getting alignment for Donnie_Darko ...
+   Load similarity matrices in 0.4841 seconds.
+Running alignment algorithm in 95.1686 seconds.
+
+===  727  Getting alignment for Lost_Highway_(film) ...
+   Load similarity matrices in 0.1110 seconds.
+Running alignment algorithm in 95.5720 seconds.
+
+===  728  Getting alignment for The_French_Connection_(film) ...
+   Load similarity matrices in 0.2321 seconds.
+Running alignment algorithm in 132.0726 seconds.
+
+===  729  Getting alignment for Star_Wars_Episode_I:_The_Phantom_Menace ...
+   Load similarity matrices in 0.0799 seconds.
+Running alignment algorithm in 78.4721 seconds.
+
+===  730  Getting alignment for Taking_Lives_(film) ...
+   Load similarity matrices in 0.1302 seconds.
+Running alignment algorithm in 4.8711 seconds.
+
+===  731  Getting alignment for The_Perks_of_Being_a_Wallflower_(film) ...
+   Load similarity matrices in 0.1844 seconds.
+Running alignment algorithm in 194.4314 seconds.
+
+===  732  Getting alignment for The_Ice_Storm_(film) ...
+   Load similarity matrices in 0.1627 seconds.
+Running alignment algorithm in 7253.3929 seconds.
+
+===  733  Getting alignment for Jason_X ...
+   Load similarity matrices in 0.1595 seconds.
+Running alignment algorithm in 186.0128 seconds.
+
+===  734  Getting alignment for Romeo_+_Juliet ...
+   Load similarity matrices in 0.2053 seconds.
+Running alignment algorithm in 3568.8934 seconds.
+
+===  735  Getting alignment for Capote_(film) ...
+   Load similarity matrices in 0.1645 seconds.
+Running alignment algorithm in 84.2944 seconds.
+
+===  736  Getting alignment for Limitless ...
+   Load similarity matrices in 0.1780 seconds.
+Running alignment algorithm in 7240.6902 seconds.
+
+===  737  Getting alignment for Sphere_(film) ...
+   Load similarity matrices in 0.1470 seconds.
+Running alignment algorithm in 851.1074 seconds.
+
+===  738  Getting alignment for Enemy_of_the_State_(film) ...
+   Load similarity matrices in 0.1532 seconds.
+Running alignment algorithm in 5910.9699 seconds.
+
+===  739  Getting alignment for Batman_Returns ...
+   Load similarity matrices in 0.1897 seconds.
+Running alignment algorithm in 107.2466 seconds.
+
+===  740  Getting alignment for Jennifer_8 ...
+   Load similarity matrices in 0.1187 seconds.
+Running alignment algorithm in 18.2787 seconds.
+
+===  741  Getting alignment for Changeling_(film) ...
+   Load similarity matrices in 0.1383 seconds.
+Running alignment algorithm in 1528.9754 seconds.
+
+===  742  Getting alignment for Broken_Embraces ...
+   Load similarity matrices in 0.1318 seconds.
+Running alignment algorithm in 114.5483 seconds.
+
+===  743  Getting alignment for The_Cider_House_Rules_(film) ...
+   Load similarity matrices in 0.1290 seconds.
+Running alignment algorithm in 369.1051 seconds.
+
+===  744  Getting alignment for Sense_and_Sensibility_(film) ...
+   Load similarity matrices in 0.1894 seconds.
+Running alignment algorithm in 79.6154 seconds.
+
+===  745  Getting alignment for Trainspotting_(film) ...
+   Load similarity matrices in 0.2225 seconds.
+Running alignment algorithm in 161.0941 seconds.
+
+===  746  Getting alignment for To_Sleep_with_Anger ...
+   Load similarity matrices in 0.1915 seconds.
+Running alignment algorithm in 15.4889 seconds.
+
+===  747  Getting alignment for Contact_(1997_film) ...
+   Load similarity matrices in 0.1024 seconds.
+Running alignment algorithm in 455.7180 seconds.
+
+===  748  Getting alignment for Silverado_(film) ...
+   Load similarity matrices in 0.1892 seconds.
+Running alignment algorithm in 1940.0122 seconds.
+
+===  749  Getting alignment for Collateral_Damage_(film) ...
+   Load similarity matrices in 0.2749 seconds.
+Running alignment algorithm in 786.1663 seconds.
+
+===  750  Getting alignment for Body_Heat ...
+   Load similarity matrices in 0.1170 seconds.
+Running alignment algorithm in 7240.4560 seconds.
+
+===  751  Getting alignment for Forrest_Gump ...
+   Load similarity matrices in 0.2243 seconds.
+Running alignment algorithm in 142.5371 seconds.
+
+===  752  Getting alignment for Hellraiser ...
+   Load similarity matrices in 0.1603 seconds.
+Running alignment algorithm in 136.3657 seconds.
+
+===  753  Getting alignment for Shallow_Grave ...
+   Load similarity matrices in 0.2585 seconds.
+Running alignment algorithm in 7230.5849 seconds.
+
+===  754  Getting alignment for Shakespeare_in_Love ...
+   Load similarity matrices in 0.1562 seconds.
+Running alignment algorithm in 263.5556 seconds.
+
+===  755  Getting alignment for Aliens_(film) ...
+   Load similarity matrices in 0.1298 seconds.
+Running alignment algorithm in 24.6667 seconds.
+
+===  756  Getting alignment for Sugar_(2008_film) ...
+   Load similarity matrices in 0.0887 seconds.
+Running alignment algorithm in 38.2996 seconds.
+
+===  757  Getting alignment for Big_Fish ...
+   Load similarity matrices in 0.1341 seconds.
+Running alignment algorithm in 106.7376 seconds.
+
+===  758  Getting alignment for Swordfish_(film) ...
+   Load similarity matrices in 0.1207 seconds.
+Running alignment algorithm in 440.4716 seconds.
+
+===  759  Getting alignment for Tomorrow_Never_Dies ...
+   Load similarity matrices in 0.1251 seconds.
+Running alignment algorithm in 629.7468 seconds.
+
+===  760  Getting alignment for Quills ...
+   Load similarity matrices in 0.1195 seconds.
+Running alignment algorithm in 442.4112 seconds.
+
+===  761  Getting alignment for Urban_Legend_(film) ...
+   Load similarity matrices in 0.0941 seconds.
+Running alignment algorithm in 96.4201 seconds.
+
+===  762  Getting alignment for Eight_Legged_Freaks ...
+   Load similarity matrices in 0.0839 seconds.
+Running alignment algorithm in 7240.3946 seconds.
+
+===  763  Getting alignment for The_Assignment_(1997_film) ...
+   Load similarity matrices in 0.0921 seconds.
+Running alignment algorithm in 1298.7445 seconds.
+
+===  764  Getting alignment for The_Help_(film) ...
+   Load similarity matrices in 0.1689 seconds.
+Running alignment algorithm in 7247.3321 seconds.
+
+===  765  Getting alignment for Slither_(2006_film) ...
+   Load similarity matrices in 0.2241 seconds.
+Running alignment algorithm in 169.8688 seconds.
+
+===  766  Getting alignment for Friday_the_13th_Part_VIII:_Jason_Takes_Manhattan ...
+   Load similarity matrices in 0.1184 seconds.
+Running alignment algorithm in 484.4357 seconds.
+
+===  767  Getting alignment for After.Life ...
+   Load similarity matrices in 0.1976 seconds.
+Running alignment algorithm in 117.4500 seconds.
+
+===  768  Getting alignment for Blast_from_the_Past_(film) ...
+   Load similarity matrices in 0.2238 seconds.
+Running alignment algorithm in 410.0093 seconds.
+
+===  769  Getting alignment for The_Reader_(2008_film) ...
+   Load similarity matrices in 0.1411 seconds.
+Running alignment algorithm in 5.5250 seconds.
+
+===  770  Getting alignment for Backdraft_(film) ...
+   Load similarity matrices in 0.1127 seconds.
+Running alignment algorithm in 416.7060 seconds.
+
+===  771  Getting alignment for Sleepy_Hollow_(film) ...
+   Load similarity matrices in 0.1360 seconds.
+Running alignment algorithm in 128.8548 seconds.
+
+===  772  Getting alignment for Wild_Wild_West ...
+   Load similarity matrices in 0.1145 seconds.
+Running alignment algorithm in 458.1288 seconds.
+
+===  773  Getting alignment for Hero_(1992_film) ...
+   Load similarity matrices in 0.0778 seconds.
+Running alignment algorithm in 91.9058 seconds.
+
+===  774  Getting alignment for Youve_Got_Mail ...
+   Load similarity matrices in 0.1314 seconds.
+Running alignment algorithm in 1237.0346 seconds.
+
+===  775  Getting alignment for Real_Genius ...
+   Load similarity matrices in 0.1348 seconds.
+Running alignment algorithm in 71.6303 seconds.
+
+===  776  Getting alignment for Ali_(film) ...
+   Load similarity matrices in 0.1110 seconds.
+Running alignment algorithm in 55.0524 seconds.
+
+===  777  Getting alignment for Slumdog_Millionaire ...
+   Load similarity matrices in 0.1934 seconds.
+Running alignment algorithm in 165.4110 seconds.
+
+===  778  Getting alignment for The_Taking_of_Pelham_One_Two_Three_(1974_film) ...
+   Load similarity matrices in 0.1437 seconds.
+Running alignment algorithm in 3075.6420 seconds.
+
+===  779  Getting alignment for Babel_(film) ...
+   Load similarity matrices in 0.2073 seconds.
+Running alignment algorithm in 2.4299 seconds.
+
+===  780  Getting alignment for Suspect_Zero ...
+   Load similarity matrices in 0.1183 seconds.
+Running alignment algorithm in 51.4586 seconds.
+
+===  781  Getting alignment for Bamboozled ...
+   Load similarity matrices in 0.1286 seconds.
+Running alignment algorithm in 3658.2698 seconds.
+
+===  782  Getting alignment for Beloved_(film) ...
+   Load similarity matrices in 0.1883 seconds.
+Running alignment algorithm in 7244.0972 seconds.
+
+===  783  Getting alignment for Seven_(film) ...
+   Load similarity matrices in 0.0755 seconds.
+Running alignment algorithm in 7234.9466 seconds.
+
+===  784  Getting alignment for Cold_Mountain_(film) ...
+   Load similarity matrices in 0.3543 seconds.
+Running alignment algorithm in 7278.8768 seconds.
+
+===  785  Getting alignment for Adaptation_(film) ...
+   Load similarity matrices in 0.1019 seconds.
+Running alignment algorithm in 308.7788 seconds.
+
+===  786  Getting alignment for The_Straight_Story ...
+   Load similarity matrices in 0.1125 seconds.
+Running alignment algorithm in 2113.2430 seconds.
+
+===  787  Getting alignment for The_Insider_(film) ...
+   Load similarity matrices in 0.1774 seconds.
+Running alignment algorithm in 5159.1440 seconds.
+
+===  788  Getting alignment for Superman_III ...
+   Load similarity matrices in 0.1334 seconds.
+Running alignment algorithm in 171.0075 seconds.
+
+===  789  Getting alignment for Kalifornia ...
+   Load similarity matrices in 0.1165 seconds.
+Running alignment algorithm in 7245.9576 seconds.
+
+===  790  Getting alignment for Mission:_Impossible_(film) ...
+   Load similarity matrices in 0.1886 seconds.
+Running alignment algorithm in 677.9856 seconds.
+
+===  791  Getting alignment for Election_(1999_film) ...
+   Load similarity matrices in 0.0829 seconds.
+Running alignment algorithm in 7252.9894 seconds.
+
+===  792  Getting alignment for Batman_(1989_film) ...
+   Load similarity matrices in 0.1071 seconds.
+Running alignment algorithm in 85.0471 seconds.
+
+===  793  Getting alignment for The_Departed ...
+   Load similarity matrices in 0.2373 seconds.
+Running alignment algorithm in 7247.3003 seconds.
+
+===  794  Getting alignment for Hollow_Man ...
+   Load similarity matrices in 0.1595 seconds.
+Running alignment algorithm in 153.5907 seconds.
+
+===  795  Getting alignment for Charade_(1963_film) ...
+   Load similarity matrices in 0.1044 seconds.
+Running alignment algorithm in 83.5915 seconds.
+
+===  796  Getting alignment for Twin_Peaks:_Fire_Walk_with_Me ...
+   Load similarity matrices in 0.1942 seconds.
+Running alignment algorithm in 7338.0244 seconds.
+
+===  797  Getting alignment for American_Pie_(film) ...
+   Load similarity matrices in 0.0940 seconds.
+Running alignment algorithm in 7243.1348 seconds.
+
+===  798  Getting alignment for Frequency_(film) ...
+   Load similarity matrices in 0.3281 seconds.
+Running alignment algorithm in 99.1055 seconds.
+
+===  799  Getting alignment for The_Horse_Whisperer_(film) ...
+   Load similarity matrices in 0.2250 seconds.
+Running alignment algorithm in 92.1712 seconds.
+
+===  800  Getting alignment for Law_Abiding_Citizen ...
+   Load similarity matrices in 0.1069 seconds.
+Running alignment algorithm in 7253.0877 seconds.
+
+===  801  Getting alignment for Crime_Spree ...
+   Load similarity matrices in 0.1028 seconds.
+Running alignment algorithm in 23.5316 seconds.
+
+===  802  Getting alignment for Pitch_Black_(film) ...
+   Load similarity matrices in 0.1093 seconds.
+Running alignment algorithm in 2599.5423 seconds.
+
+===  803  Getting alignment for I_Love_You_Phillip_Morris ...
+   Load similarity matrices in 0.1266 seconds.
+Running alignment algorithm in 54.9466 seconds.
+
+===  804  Getting alignment for Kundun ...
+   Load similarity matrices in 0.1092 seconds.
+Running alignment algorithm in 101.4953 seconds.
+
+===  805  Getting alignment for Confessions_of_a_Dangerous_Mind ...
+   Load similarity matrices in 0.0965 seconds.
+Running alignment algorithm in 7237.0678 seconds.
+
+===  806  Getting alignment for V_for_Vendetta_(film) ...
+   Load similarity matrices in 0.1192 seconds.
+Running alignment algorithm in 7245.8251 seconds.
+
+===  807  Getting alignment for The_Deer_Hunter ...
+   Load similarity matrices in 0.0962 seconds.
+Running alignment algorithm in 798.8847 seconds.
+
+===  808  Getting alignment for Metro_(1997_film) ...
+   Load similarity matrices in 0.3366 seconds.
+Running alignment algorithm in 103.3517 seconds.
+
+===  809  Getting alignment for X-Men_(film) ...
+   Load similarity matrices in 0.1016 seconds.
+Running alignment algorithm in 6905.4125 seconds.
+
+===  810  Getting alignment for The_Matrix ...
+   Load similarity matrices in 0.0988 seconds.
+Running alignment algorithm in 124.1407 seconds.
+
+===  811  Getting alignment for Superman_(1978_film) ...
+   Load similarity matrices in 0.0776 seconds.
+Running alignment algorithm in 103.9078 seconds.
+
+===  812  Getting alignment for Rambling_Rose_(film) ...
+   Load similarity matrices in 0.1288 seconds.
+Running alignment algorithm in 11.4694 seconds.
+
+===  813  Getting alignment for Panther_(film) ...
+   Load similarity matrices in 0.2452 seconds.
+Running alignment algorithm in 16.1273 seconds.
+
+===  814  Getting alignment for Youth_in_Revolt_(film) ...
+   Load similarity matrices in 0.1040 seconds.
+Running alignment algorithm in 523.4197 seconds.
+
+===  815  Getting alignment for Arctic_Blue ...
+   Load similarity matrices in 0.0779 seconds.
+Running alignment algorithm in 0.8943 seconds.
+
+===  816  Getting alignment for Alien_(film) ...
+   Load similarity matrices in 0.1068 seconds.
+Running alignment algorithm in 7242.0095 seconds.
+
+===  817  Getting alignment for The_Searchers_(film) ...
+   Load similarity matrices in 0.1291 seconds.
+Running alignment algorithm in 10.2796 seconds.
+
+===  818  Getting alignment for A_Walk_to_Remember ...
+   Load similarity matrices in 0.0975 seconds.
+Running alignment algorithm in 7292.9382 seconds.
+
+===  819  Getting alignment for EDtv ...
+   Load similarity matrices in 0.0050 seconds.
+Running alignment algorithm in 4260.2881 seconds.
+
+===  820  Getting alignment for The_Godfather ...
+   Load similarity matrices in 0.1444 seconds.
+Running alignment algorithm in 153.0711 seconds.
+
+===  821  Getting alignment for The_Bodyguard_(1992_film) ...
+   Load similarity matrices in 0.1526 seconds.
+Running alignment algorithm in 1026.6365 seconds.
+
+===  822  Getting alignment for Blue_Velvet_(film) ...
+   Load similarity matrices in 0.0870 seconds.
+Running alignment algorithm in 3512.0335 seconds.
+
+===  823  Getting alignment for Star_Trek_II:_The_Wrath_of_Khan ...
+   Load similarity matrices in 0.0857 seconds.
+Running alignment algorithm in 155.0576 seconds.
+
+===  824  Getting alignment for Hellboy_(film) ...
+   Load similarity matrices in 0.0353 seconds.
+Running alignment algorithm in 967.2089 seconds.
+
+===  825  Getting alignment for The_Brothers_Bloom ...
+   Load similarity matrices in 0.1385 seconds.
+Running alignment algorithm in 7265.1384 seconds.
+
+===  826  Getting alignment for Ted_(film) ...
+   Load similarity matrices in 0.0651 seconds.
+Running alignment algorithm in 282.7494 seconds.
+
+===  827  Getting alignment for Code_of_Silence_(film) ...
+   Load similarity matrices in 0.0644 seconds.
+Running alignment algorithm in 843.6719 seconds.
+
+===  828  Getting alignment for The_Devils_Advocate_(1997_film) ...
+   Load similarity matrices in 0.0589 seconds.
+Running alignment algorithm in 5066.6865 seconds.
+
+===  829  Getting alignment for The_Shining_(film) ...
+   Load similarity matrices in 0.0174 seconds.
+Running alignment algorithm in 221.4856 seconds.
+
+===  830  Getting alignment for Evil_Dead_II ...
+   Load similarity matrices in 0.1160 seconds.
+Running alignment algorithm in 1298.0071 seconds.
+
+===  831  Getting alignment for Soldier_(1998_American_film) ...
+   Load similarity matrices in 0.0323 seconds.
+Running alignment algorithm in 4876.3834 seconds.
+
+===  832  Getting alignment for The_Rock_(film) ...
+   Load similarity matrices in 0.0669 seconds.
+Running alignment algorithm in 460.3823 seconds.
+
+===  833  Getting alignment for Midnight_Cowboy ...
+   Load similarity matrices in 0.1071 seconds.
+Running alignment algorithm in 7258.0372 seconds.
+
+===  834  Getting alignment for The_English_Patient_(film) ...
+   Load similarity matrices in 0.0131 seconds.
+Running alignment algorithm in 775.1930 seconds.
+
+===  835  Getting alignment for The_Naked_City ...
+   Load similarity matrices in 0.0167 seconds.
+Running alignment algorithm in 227.9942 seconds.
+
+===  836  Getting alignment for Star_Wars_Episode_III:_Revenge_of_the_Sith ...
+   Load similarity matrices in 0.0178 seconds.
+Running alignment algorithm in 142.2183 seconds.
+
+===  837  Getting alignment for Barry_Lyndon ...
+   Load similarity matrices in 0.0233 seconds.
+Running alignment algorithm in 85.1764 seconds.
+
+===  838  Getting alignment for Traffic_(2000_film) ...
+   Load similarity matrices in 0.0165 seconds.
+Running alignment algorithm in 28.8035 seconds.
+
+===  839  Getting alignment for The_Adventures_of_Buckaroo_Banzai_Across_the_8th_Dimension ...
+   Load similarity matrices in 0.0209 seconds.
+Running alignment algorithm in 594.0437 seconds.
+
+===  840  Getting alignment for Starman_(film) ...
+   Load similarity matrices in 0.0132 seconds.
+Running alignment algorithm in 7275.1291 seconds.
+
+===  841  Getting alignment for Thelma_&_Louise ...
+   Load similarity matrices in 0.0207 seconds.
+Running alignment algorithm in 7255.5962 seconds.
+
+===  842  Getting alignment for The_Godfather_Part_II ...
+   Load similarity matrices in 0.0428 seconds.
+Running alignment algorithm in 12.1699 seconds.
+
+===  843  Getting alignment for The_Shawshank_Redemption ...
+   Load similarity matrices in 0.0186 seconds.
+Running alignment algorithm in 198.2562 seconds.
+
+===  844  Getting alignment for The_Abyss ...
+   Load similarity matrices in 0.0178 seconds.
+Running alignment algorithm in 7265.1683 seconds.
+
+===  845  Getting alignment for Heat_(1995_film) ...
+   Load similarity matrices in 0.0657 seconds.
+Running alignment algorithm in 7255.8579 seconds.
+
+===  846  Getting alignment for A_Perfect_World ...
+   Load similarity matrices in 0.0532 seconds.
+Running alignment algorithm in 75.7172 seconds.
+
+===  847  Getting alignment for Jaws_(film) ...
+   Load similarity matrices in 0.2232 seconds.
+Running alignment algorithm in 7263.7345 seconds.
+
+===  848  Getting alignment for Invictus_(film) ...
+   Load similarity matrices in 0.0984 seconds.
+Running alignment algorithm in 2611.2584 seconds.
+
+===  849  Getting alignment for Tinker_Tailor_Soldier_Spy_(film) ...
+   Load similarity matrices in 0.0488 seconds.
+Running alignment algorithm in 751.3215 seconds.
+
+===  850  Getting alignment for Machine_Gun_Preacher ...
+   Load similarity matrices in 0.0419 seconds.
+Running alignment algorithm in 224.9009 seconds.
+
+===  851  Getting alignment for Below_(film) ...
+   Load similarity matrices in 0.1222 seconds.
+Running alignment algorithm in 156.3800 seconds.
+
+===  852  Getting alignment for Fight_Club ...
+   Load similarity matrices in 0.0704 seconds.
+Running alignment algorithm in 103.0023 seconds.
+
+===  853  Getting alignment for The_Saint_(film) ...
+   Load similarity matrices in 0.0631 seconds.
+Running alignment algorithm in 7250.1434 seconds.
+
+===  854  Getting alignment for Star_Trek_(film) ...
+   Load similarity matrices in 0.1888 seconds.
+Running alignment algorithm in 175.6772 seconds.
+
+===  855  Getting alignment for 2012_(film) ...
+   Load similarity matrices in 0.0588 seconds.
+Running alignment algorithm in 352.2095 seconds.
+
+===  856  Getting alignment for Domino_(film) ...
+   Load similarity matrices in 0.0356 seconds.
+Running alignment algorithm in 33.0605 seconds.
+
+===  857  Getting alignment for Airplane_II:_The_Sequel ...
+   Load similarity matrices in 0.0456 seconds.
+Running alignment algorithm in 5879.1525 seconds.
+
+===  858  Getting alignment for Oceans_Eleven ...
+   Load similarity matrices in 0.1521 seconds.
+Running alignment algorithm in 742.4610 seconds.
+
+===  859  Getting alignment for Schindlers_List ...
+   Load similarity matrices in 0.0556 seconds.
+Running alignment algorithm in 1465.6436 seconds.
+
+===  860  Getting alignment for Into_the_Wild_(film) ...
+   Load similarity matrices in 0.1467 seconds.
+Running alignment algorithm in 1533.6407 seconds.
+
+===  861  Getting alignment for Vertigo_(film) ...
+   Load similarity matrices in 0.0597 seconds.
+Running alignment algorithm in 898.9296 seconds.
+
+===  862  Getting alignment for Antitrust_(film) ...
+   Load similarity matrices in 0.0507 seconds.
+Running alignment algorithm in 756.7442 seconds.
+
+===  863  Getting alignment for Ghost_Ship_(2002_film) ...
+   Load similarity matrices in 0.0538 seconds.
+Running alignment algorithm in 7264.0588 seconds.
+
+===  864  Getting alignment for The_World_Is_Not_Enough ...
+   Load similarity matrices in 0.0691 seconds.
+Running alignment algorithm in 277.0041 seconds.
+
+===  865  Getting alignment for Erin_Brockovich_(film) ...
+   Load similarity matrices in 0.2030 seconds.
+Running alignment algorithm in 119.1673 seconds.
+
+===  866  Getting alignment for Ferris_Buellers_Day_Off ...
+   Load similarity matrices in 0.0685 seconds.
+Running alignment algorithm in 7250.3302 seconds.
+
+===  867  Getting alignment for The_Whistleblower ...
+   Load similarity matrices in 0.1517 seconds.
+Running alignment algorithm in 46.6798 seconds.
+
+===  868  Getting alignment for Nightbreed ...
+   Load similarity matrices in 0.1117 seconds.
+Running alignment algorithm in 1029.5950 seconds.
+
+===  869  Getting alignment for Anna_Karenina_(2012_film) ...
+   Load similarity matrices in 0.0404 seconds.
+Running alignment algorithm in 7334.3732 seconds.
+
+===  870  Getting alignment for Dune_(film) ...
+   Load similarity matrices in 0.0515 seconds.
+Running alignment algorithm in 1448.1025 seconds.
+
+===  871  Getting alignment for Hider_in_the_House_(1989_film) ...
+   Load similarity matrices in 0.0655 seconds.
+Running alignment algorithm in 55.5893 seconds.
+
+===  872  Getting alignment for Lost_in_Space_(film) ...
+   Load similarity matrices in 0.0858 seconds.
+Running alignment algorithm in 239.3909 seconds.
+
+===  873  Getting alignment for Thirteen_Days_(film) ...
+   Load similarity matrices in 0.0378 seconds.
+Running alignment algorithm in 156.9550 seconds.
+
+===  874  Getting alignment for The_Italian_Job_(2003_film) ...
+   Load similarity matrices in 0.0857 seconds.
+Running alignment algorithm in 5326.3693 seconds.
+
+===  875  Getting alignment for The_Black_Dahlia_(film) ...
+   Load similarity matrices in 0.0034 seconds.
+Running alignment algorithm in 7190.8294 seconds.
+
+===  876  Getting alignment for Midnight_Run ...
+   Load similarity matrices in 0.0794 seconds.
+Running alignment algorithm in 651.0026 seconds.
+
+===  877  Getting alignment for Dances_with_Wolves ...
+   Load similarity matrices in 0.0363 seconds.
+Running alignment algorithm in 1574.1024 seconds.
+
+===  878  Getting alignment for Assassins_(film) ...
+   Load similarity matrices in 0.0527 seconds.
+Running alignment algorithm in 51.1392 seconds.
+
+===  879  Getting alignment for The_Empire_Strikes_Back ...
+   Load similarity matrices in 0.0405 seconds.
+Running alignment algorithm in 309.3716 seconds.
+
+===  880  Getting alignment for Bad_Boys_(1995_film) ...
+   Load similarity matrices in 0.1169 seconds.
+Running alignment algorithm in 7277.9834 seconds.
+
+===  881  Getting alignment for Colombiana ...
+   Load similarity matrices in 0.0641 seconds.
+Running alignment algorithm in 321.8629 seconds.
+
+===  882  Getting alignment for Godzilla_(1998_film) ...
+   Load similarity matrices in 0.0602 seconds.
+Running alignment algorithm in 7.7066 seconds.
+
+===  883  Getting alignment for 8mm_(film) ...
+   Load similarity matrices in 0.0302 seconds.
+Running alignment algorithm in 854.9877 seconds.
+
+===  884  Getting alignment for Invaders_from_Mars_(1953_film) ...
+   Load similarity matrices in 0.0959 seconds.
+Running alignment algorithm in 7259.9306 seconds.
+
+===  885  Getting alignment for American_Gangster_(film) ...
+   Load similarity matrices in 0.0858 seconds.
+Running alignment algorithm in 435.6715 seconds.
+
+===  886  Getting alignment for Cherry_Falls ...
+   Load similarity matrices in 0.0061 seconds.
+Running alignment algorithm in 7298.1943 seconds.
+
+===  887  Getting alignment for Independence_Day_(1996_film) ...
+   Load similarity matrices in 0.0725 seconds.
+Running alignment algorithm in 152.1333 seconds.
+
+===  888  Getting alignment for True_Lies ...
+   Load similarity matrices in 0.0585 seconds.
+Running alignment algorithm in 646.1331 seconds.
+
+===  889  Getting alignment for Cast_Away ...
+   Load similarity matrices in 0.0318 seconds.
+Running alignment algorithm in 326.6698 seconds.
+
+===  890  Getting alignment for Pearl_Harbor_(film) ...
+   Load similarity matrices in 0.0556 seconds.
+Running alignment algorithm in 7345.3405 seconds.
+
+===  891  Getting alignment for I_Am_Legend_(film) ...
+   Load similarity matrices in 0.1229 seconds.
+Running alignment algorithm in 7312.3361 seconds.
+
+===  892  Getting alignment for The_Curious_Case_of_Benjamin_Button_(film) ...
+   Load similarity matrices in 0.0887 seconds.
+Running alignment algorithm in 825.3439 seconds.
+
+===  893  Getting alignment for Rush_Hour_(1998_film) ...
+   Load similarity matrices in 0.0716 seconds.
+Running alignment algorithm in 7281.1359 seconds.
+
+===  894  Getting alignment for The_Fugitive_(1993_film) ...
+   Load similarity matrices in 0.1098 seconds.
+Running alignment algorithm in 75.1471 seconds.
+
+===  895  Getting alignment for Event_Horizon_(film) ...
+   Load similarity matrices in 0.0378 seconds.
+Running alignment algorithm in 7277.2444 seconds.
+
+===  896  Getting alignment for Magnolia_(film) ...
+   Load similarity matrices in 0.3539 seconds.
+Running alignment algorithm in 7319.9088 seconds.
+
+===  897  Getting alignment for Batman_Begins ...
+   Load similarity matrices in 0.0785 seconds.
+Running alignment algorithm in 887.4767 seconds.
+
+===  898  Getting alignment for The_Girl_with_the_Dragon_Tattoo_(2011_film) ...
+   Load similarity matrices in 0.0619 seconds.
+Running alignment algorithm in 2912.4651 seconds.
+
+===  899  Getting alignment for Absolute_Power_(film) ...
+   Load similarity matrices in 0.0036 seconds.
+Running alignment algorithm in 7312.0191 seconds.
+
+===  900  Getting alignment for Airplane! ...
+   Load similarity matrices in 0.0033 seconds.
+Running alignment algorithm in 112.9482 seconds.
+
+===  901  Getting alignment for War_of_the_Worlds_(2005_film) ...
+   Load similarity matrices in 0.0040 seconds.
+Running alignment algorithm in 7525.6257 seconds.
+
+===  902  Getting alignment for Rambo:_First_Blood_Part_II ...
+   Load similarity matrices in 0.1081 seconds.
+Running alignment algorithm in 7328.4948 seconds.
+
+===  903  Getting alignment for The_Bourne_Ultimatum_(film) ...
+   Load similarity matrices in 0.0592 seconds.
+Running alignment algorithm in 68.9666 seconds.
+
+===  904  Getting alignment for Air_Force_One_(film) ...
+   Load similarity matrices in 0.1601 seconds.
+Running alignment algorithm in 854.0790 seconds.
+
+===  905  Getting alignment for The_Next_Three_Days ...
+   Load similarity matrices in 0.0445 seconds.
+Running alignment algorithm in 39.6990 seconds.
+
+===  906  Getting alignment for Fantastic_Voyage ...
+   Load similarity matrices in 0.0678 seconds.
+Running alignment algorithm in 1212.5478 seconds.
+
+===  907  Getting alignment for The_Dark_Knight_(film) ...
+   Load similarity matrices in 0.0825 seconds.
+Running alignment algorithm in 7363.0807 seconds.
+
+===  908  Getting alignment for Casino_(film) ...
+   Load similarity matrices in 0.0333 seconds.
+Running alignment algorithm in 3563.8175 seconds.
+
+===  909  Getting alignment for Rear_Window ...
+   Load similarity matrices in 0.1606 seconds.
+Running alignment algorithm in 1380.5603 seconds.
+
+===  910  Getting alignment for The_Man_Who_Knew_Too_Much_(1956_film) ...
+   Load similarity matrices in 0.0479 seconds.
+Running alignment algorithm in 461.8170 seconds.
+
+===  911  Getting alignment for Star_Wars_(film) ...
+   Load similarity matrices in 0.1381 seconds.
+Running alignment algorithm in 315.9382 seconds.
+
+===  912  Getting alignment for Silver_Bullet_(film) ...
+   Load similarity matrices in 0.0756 seconds.
+Running alignment algorithm in 7727.0905 seconds.
+
+===  913  Getting alignment for Pet_Sematary_(film) ...
+   Load similarity matrices in 0.1171 seconds.
+Running alignment algorithm in 7780.2610 seconds.
